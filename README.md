@@ -27,7 +27,7 @@ My name is Noman and I'm a web developer, wizard. With my 1+ years of freelancin
 <h2 align="center">😎😍 Projects 🥰🤗</h2>
 
 ### Vanillajs Projects
-- [Keycode detector](https://github.com/kingRayhan/keycode)
+- []()
 
 
 ```
