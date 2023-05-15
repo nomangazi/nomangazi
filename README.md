@@ -16,11 +16,11 @@ My name is Noman and I'm a web developer, wizard. With my 1+ years of freelancin
 
 ```js
 {
-	"frontend"	: "Vuejs",
-	"backend"	: "Django",
+	"frontend"	: "ReactJS",
+	"backend"	: "PHP",
 	"dbms"		: ["MySql", "Sqlite"],
-	"languages"	: ["Java", "Python", "Javascript", "PHP", "C"],
-	"ui"		: ["Styled-components","Bootstrap", "Tailwind.css"]
+	"languages"	: ["Javascript", "PHP", "C"],
+	"ui"		: ["Styled-components","Bootstrap", "TailwindCSS"]
 }
 ```
 
@@ -31,5 +31,5 @@ My name is Noman and I'm a web developer, wizard. With my 1+ years of freelancin
 
 
 ```
-	readme: v0.0.1
+	readme: v1.0.2
 ```
