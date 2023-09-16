@@ -2,10 +2,10 @@
 
 ## Noman Gazi
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nomangazi)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/nomangazi)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nomangazi) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15536158/noman-gazi)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nomangazi)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/nomangazicse)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nomangazicse) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15536158/noman-gazi)
 
 
-My name is Noman and I'm a web developer, wizard. With my 1+ years of freelancing career, I learned modern web development tools and frameworks like Vuejs, etc.
+My name is Noman and I'm a web developer. With my 1+ years of freelancing career, I learned modern web development tools and frameworks like Vuejs, etc.
 
 <div style="display: flex;">
   <a align="bottom" href="https://github.com/nomangazi/nomangazi/files/8153796/MyResume.pdf" download>Download Resume </a>
@@ -18,9 +18,9 @@ My name is Noman and I'm a web developer, wizard. With my 1+ years of freelancin
 {
 	"frontend"	: "ReactJS",
 	"backend"	: "PHP",
-	"dbms"		: ["MySql", "Sqlite"],
+	"dbms"		: ["MySql", "SQL","PostgreSQL"],
 	"languages"	: ["Javascript", "PHP", "C"],
-	"ui"		: ["Styled-components","Bootstrap", "TailwindCSS"]
+	"ui"		: ["Styled-components", "Bootstrap", "TailwindCSS"]
 }
 ```
 
