@@ -13,28 +13,40 @@ My name is Noman and I'm a web developer. With my 1+ years of freelancing career
   <img align="top" src="https://img.icons8.com/windows/32/000000/download--v1.png"/>
 </div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomangazi&layout=pie&hide=html)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomangazi&layout=pie&hide=html)
+<a href="https://app.daily.dev/nomangazi"><img src="https://api.daily.dev/devcards/0480e4bd487f468d9d5d3639c77b0a19.png?r=47x" width="280" alt="Noman Gazi's Dev Card"/></a>
 ### ~/nomangazi/.stacks
 
 ```js
 {
 	"frontend"	: "ReactJS",
 	"backend"	: "PHP",
-	"dbms"		: ["MySql", "SQL","PostgreSQL"],
-	"languages"	: ["Javascript", "PHP", "C"],
+	"dbms"		: ["MySql", "SQL", "PostgreSQL"],
+	"languages"	: ["Javascript","Typescript" "PHP", "C"],
 	"ui"		: ["Styled-components", "Bootstrap", "TailwindCSS"]
 }
 ```
 
 <h2 align="center">😎😍 Projects 🥰🤗</h2>
 
-### Vanillajs Projects
-- []()
+### Vanilla Projects
+- [Cuda Portfolio](https://cuda.noman.me/)
+- [Calling Bell](https://callingbell.noman.me/)
+- [Weather](https://weather.noman.me)
+
+### ReactJS Projects
+- [Access Landing Sync](https://landing.noman.me/)
+- [Edu Soft](https://www.edusoft.com.bd/)
+- [Email Template Editor](https://html-editor.noman.me)
+
+### PHP Projects
+- [Mini Ecommerce](https://shoppy.noman.me)
+- [Mini UI](https://mini-ui.noman.me)
+ 
+### Blog
+- [Persona Blogl](https://blog.noman.me)
 
 
 ```
-	readme: v1.0.2
+	readme: v0.2.4
 ```
