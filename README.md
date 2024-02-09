@@ -1,6 +1,5 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=nomangazi&show_icons=true"/>](https://github.com/nomangazi)
 
-
 ## Noman Gazi
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nomangazi)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/nomangazicse)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nomangazicse) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15536158/noman-gazi)
@@ -14,7 +13,6 @@ My name is Noman and I'm a web developer. With my 1+ years of freelancing career
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomangazi&layout=pie&hide=html)
-<a href="https://app.daily.dev/nomangazi"><img src="https://github.com/nomangazi/nomangazi/blob/main/devcard.svg?r=47x" width="280" alt="Noman Gazi's Dev Card"/></a>
 
 ### ~/nomangazi/.stacks
 
