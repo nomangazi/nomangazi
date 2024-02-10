@@ -13,7 +13,7 @@ My name is Noman and I'm a web developer. With my 1+ years of freelancing career
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomangazi&layout=pie&hide=html)
-<a href="https://app.daily.dev/nomangazi"><img src="https://github.com/nomangazi/nomangazi/blob/main/devcard.svg?r=au2" width="400" alt="Noman Gazi's Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/nomangazi"><img src="https://github.com/nomangazi/nomangazi/blob/main/devcard.svg?r=au2" width="276" alt="Noman Gazi's Dev Card"/></a>
 
 ### ~/nomangazi/.stacks
 
