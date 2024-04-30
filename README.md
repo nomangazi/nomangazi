@@ -1,6 +1,10 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=nomangazi&show_icons=true"/>](https://github.com/nomangazi)
+[<img align="right" width="400" style="position:static;z-index:1111;" src="https://github-readme-stats.vercel.app/api?username=nomangazi&show_icons=true"/>](https://github.com/nomangazi)
 
-## Noman Gazi
+
+
+### Noman Gazi
+
+> Jr. Software Developer at [Bikiran](https://www.bikiran.com) <br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nomangazi)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/nomangazicse)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nomangazicse) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15536158/noman-gazi)
 
@@ -33,11 +37,13 @@ My name is Noman and I'm a web developer. With my 1+ years of freelancing career
 - [Cuda Portfolio](https://cuda.noman.me/)
 - [Calling Bell](https://callingbell.noman.me/)
 - [Weather](https://weather.noman.me)
+- [Scroll Fraction](https://scroll.noman.me/)
 
 ### ReactJS Projects
 - [Access Landing Sync](https://landing.noman.me/)
 - [Edu Soft](https://www.edusoft.com.bd/)
 - [Email Template Editor](https://html-editor.noman.me)
+- [Todo App](https://todo.noman.me)
 
 ### PHP Projects
 - [Mini Ecommerce](https://shoppy.noman.me)
@@ -48,5 +54,5 @@ My name is Noman and I'm a web developer. With my 1+ years of freelancing career
 
 
 ```
-	readme: v0.2.4
+	readme: v0.2.5
 ```
