@@ -2,9 +2,11 @@
 
 # Noman Gazi
 
-Software Engineer building on .NET, TypeScript and AWS
+Backend Software Engineer
 
-[noman.me](https://noman.me) · [blog](https://blog.noman.me) · [LinkedIn](https://www.linkedin.com/in/nomangazi) · [Resume](https://github.com/nomangazi/nomangazi/files/8153796/MyResume.pdf)
+Building reliable APIs and backend systems with C#, ASP.NET Core, and PostgreSQL, the parts of a product that have to work correctly every single time.
+
+[noman.me](https://noman.me) · [blog](https://blog.noman.me) · [LinkedIn](https://www.linkedin.com/in/nomangazi) · [X](https://x.com/nomangazix)
 
 </div>
 
@@ -12,56 +14,31 @@ Software Engineer building on .NET, TypeScript and AWS
 
 ## About
 
-I'm a software engineer at [JoulesLabs](https://www.jouleslabs.com), based in Khulna, Bangladesh. I build product features end to end: C# and .NET on the backend, TypeScript and Next.js on the frontend, shipped on AWS.
+Focused on high-performance backend systems, clean architecture, and reliable APIs.
 
-Before that I freelanced with React and PHP, which is still where a few of my older side projects live.
+- Focus: backend systems & APIs
+- 3+ years of experience
+- Open to remote work
 
-- Working with: **C#, .NET, TypeScript, Next.js, PostgreSQL, AWS**
-- Learning: cloud architecture, and getting faster with .NET
-- Writing at [blog.noman.me](https://blog.noman.me)
+<br/>
+
+## Core stack
+
+`C#` `.NET 8/9` `ASP.NET Core` `PostgreSQL` `SQL Server` `Redis` `Docker` `AWS` `Azure` `Clean Architecture` `CI/CD`
 
 <br/>
 
 ## Featured work
 
-All shipped and live under my own domain, [noman.me](https://noman.me).
+**[BeyondRxAid](https://noman.me/projects/beyondrxaid)** · 2023 – 2025
+HIPAA-compliant healthcare prescription management platform, rebuilt from an ASP.NET MVC monolith into ASP.NET Core 9 with real-time SignalR notifications and AWS KMS encryption.
+`.NET Core 9` `SQL Server` `Redis` `AWS KMS` `SignalR` `Docker`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Functional Movement Systems (FMS)** · 2024 – 2025
+Multi-platform health-tech system powering a 40+ module admin portal, a 110-endpoint REST API, and Azure WebJobs for automated billing.
+`ASP.NET Core` `Web API` `Angular 16` `Azure DevOps` `Azure SQL`
 
-**[Access Landing Sync](https://landing.noman.me/)**
-Marketing landing page built with React.
-`React`
-
-</td>
-<td width="50%" valign="top">
-
-**[Email Template Editor](https://html-editor.noman.me)**
-Visual editor for building and previewing HTML emails.
-`React`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Mini Ecommerce](https://shoppy.noman.me)**
-Product catalog, cart and checkout flow.
-`PHP` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[Cuda Portfolio](https://cuda.noman.me/)**
-Hand-built portfolio template, HTML/CSS/JS.
-`JavaScript`
-
-</td>
-</tr>
-</table>
-
-More on [noman.me](https://noman.me).
+More case studies and side projects at [noman.me](https://noman.me).
 
 <br/>
 
